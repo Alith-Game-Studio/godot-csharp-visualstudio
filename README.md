@@ -2,6 +2,14 @@
 
 Visual Studio extension for the Godot game engine C# projects.
 
+## Comment
+
+This plugin works now for vs 2022 + Godot < 4.0. Godot >= 4.0 does not need extensions for debugging.
+
+Follow the instruction of https://gist.github.com/31/302bab2630ddf8d90ab4aec0d358b538 to enable the plugin.
+
+Fixes https://github.com/godotengine/godot-csharp-visualstudio/issues/33
+
 ## Requirements
 
 - **Godot 3.2.3** or greater. Older versions of Godot are not supported and do not work.
